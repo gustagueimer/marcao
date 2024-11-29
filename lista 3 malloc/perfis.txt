@@ -1,0 +1,10 @@
+perfil 1: 
+    genero: masculino
+    idade: 21 à 65 anos
+    localização geográfica: brasil
+    ocupações: caminhoneiro
+perfil 2:
+    genero: masculino e feminino
+    idade: na faixa dos 30 anos
+    localização geográfica: brasil
+    ocupações: diversas
